@@ -12,9 +12,10 @@ body{
     flex-direction: column; */
     justify-content: start;
     background-color: rgb(233, 231, 231);
-    width: 90%;
+    width: 70%;
     max-width: 400px;
     border-radius: 20px;
+  
     
 }
 
@@ -28,7 +29,7 @@ body{
 .product{
     display: flex;
     
-    width:400px;
+    width:350px;
     align-items: center;
     gap: 0.9rem;
     margin: 1rem 0;
@@ -44,7 +45,7 @@ body{
 
 }
 img{
-    width: 170px;
+    width: 130px;
     margin-right: 0.7rem;
     border-radius: 30px;
 }
